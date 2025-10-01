@@ -159,7 +159,7 @@ function AppContent() {
                 <div className="flex justify-center md:justify-end">
                   <a href="#home" aria-label="Back to top" className="hover:opacity-80 transition-opacity">
                     <img 
-                      src="/placeholders/AdamZebillahLogo.svg" 
+                      src="/placeholders/AdamZebillahLogo.svg"
                       alt="Adam Zebilah Logo" 
                       className="h-8 w-8 filter invert brightness-0" />
                   </a>
