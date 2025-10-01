@@ -281,7 +281,7 @@ export function Contact() {
                     <Icon name="email" size={24} />
                     <div className="flex-1 text-left">
                       <span className="font-medium text-white">{t('contact.buttons.email')}</span>
-                      <p className="text-sm text-white/60">adamzebilah@gmail.com</p>
+                      <p className="text-sm text-white/60">adamzebilah7@gmail.com</p>
                     </div>
                     {emailCopied && (
                       <motion.div
