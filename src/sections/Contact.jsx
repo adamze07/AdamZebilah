@@ -43,34 +43,39 @@ export function Contact() {
     setIsSubmitting(true)
     setSubmitStatus(null)
 
-    try {
-      // Simulate form submission
-      await new Promise(resolve => setTimeout(resolve, 2000))
-      
-      // In a real app, you would send the data to your backend
-      console.log('Form submitted:', formData)
-      
-      setSubmitStatus('success')
-      trackFormSubmit('contact', true)
-      
-      // Reset form
-      setFormData({
-        name: '',
-        email: '',
-        subject: '',
-        message: '',
-        privacy: false
-      })
-    } catch (error) {
+    fetch('https://formspree.io/f/mdkwznre', {
+      method: 'POST',
+      body: JSON.stringify(formData),
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+      }
+    }).then(response => {
+      if (response.ok) {
+        setSubmitStatus('success')
+        trackFormSubmit('contact', true)
+        // Reset form
+        setFormData({
+          name: '',
+          email: '',
+          subject: '',
+          message: '',
+          privacy: false
+        })
+      } else {
+        setSubmitStatus('error')
+        trackFormSubmit('contact', false)
+      }
+    }).catch(error => {
       setSubmitStatus('error')
       trackFormSubmit('contact', false)
-    } finally {
+    }).finally(() => {
       setIsSubmitting(false)
-    }
+    })
   }
 
   const copyEmailToClipboard = () => {
-    const email = 'adamzebilah@gmail.com';
+    const email = 'adamzebilah7@gmail.com';
     
     // Modern browsers with secure context
     if (navigator.clipboard && window.isSecureContext) {
@@ -80,7 +85,7 @@ export function Contact() {
       }).catch(() => {
         // Fallback for browsers that fail for other reasons
         window.open(`mailto:${email}`, '_blank', 'noopener,noreferrer');
-      });
+      })
     } else {
       // Fallback for older browsers or insecure contexts
       const textArea = document.createElement('textarea');
@@ -149,7 +154,11 @@ export function Contact() {
               <h3 className="text-xl font-semibold text-white mb-8">
                 {t('contact.sendMessage')}
               </h3>
-              <form onSubmit={handleSubmit} className="space-y-8">
+              <form
+                onSubmit={handleSubmit}
+                className="space-y-8"
+                action="https://formspree.io/f/mdkwznre"
+                method="POST">
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
                   <Input
                     label={t('contact.form.name')}
