@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import { I18nProvider, useI18n } from './utils/i18n'
 import { generateMetaTags, generatePersonSchema, generateWebsiteSchema, generatePortfolioSchema } from './utils/seo'
+import AdamZebilahLogo from './AdamZebillahLogo.svg' // Assuming you moved the file here
 import { projects } from './utils/data'
 
 import { MainLayout } from './components/Layout/MainLayout'
@@ -159,7 +160,7 @@ function AppContent() {
                 <div className="flex justify-center md:justify-end">
                   <a href="#home" aria-label="Back to top" className="hover:opacity-80 transition-opacity">
                     <img 
-                      src="/placeholders/AdamZebillahLogo.svg"
+                      src={AdamZebilahLogo}
                       alt="Adam Zebilah Logo" 
                       className="h-8 w-8 filter invert brightness-0" />
                   </a>
