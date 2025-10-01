@@ -133,5 +133,3 @@ This project is private and proprietary.
 - Portfolio: [https://salahmed-ctrlz.github.io/salaheddine-medkour-portfolio/](https://salahmed-ctrlz.github.io/salaheddine-medkour-portfolio/)
 
 ---
-
-Built with ❤️ for Adam Zebilah
