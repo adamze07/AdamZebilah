@@ -1,0 +1,240 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "projects": "Projekte",
+    "about": "Über mich",
+    "recentWork": "Aktuelle Arbeiten",
+    "process": "Prozess",
+    "services": "Dienstleistungen",
+    "reviews": "Bewertungen",
+    "stats": "Statistiken",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "nav": {
+    "about": "Über mich",
+    "services": "Dienstleistungen",
+    "projects": "Projekte",
+    "testimonials": "Referenzen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "status": "Verfügbar für Arbeit",
+    "title": "Design, das Sie\nwirklich brauchen.",
+    "subtitle": "Lass uns etwas Außergewöhnliches zum Leben erwecken!",
+    "getStarted": "Jetzt starten",
+    "seeProjects": "Projekte ansehen",
+    "scrollCue": "Nach unten scrollen, um Projekte zu sehen",
+    "scrollDown": "Nach unten scrollen",
+    "toSeeProjects": "um Projekte zu sehen"
+  },
+  "projects": {
+    "title": "Ausgewählt",
+    "viewCase": "Fallstudie ansehen",
+    "allProjects": "Alle Projekte",
+    "aboutMe": "Über mich"
+  },
+  "projectSubtitles": {
+    "socialMedia": "Social-Media-Design",
+    "brandIdentity": "Markenvisuelle Identität",
+    "brandingDesign": "Markengestaltung",
+    "visualIdentity": "Visuelle Markenidentität",
+    "identityDesign": "Markenidentitätsdesign"
+  },
+  "recentWork": {
+    "title": "Aktuelle Arbeiten",
+    "subtitle": "Neueste Projekte und Fallstudien",
+    "viewAll": "Alle Projekte ansehen",
+    "projects": {
+      "digitalInterface": {
+        "title": "Digitales Interface Design",
+        "description": "Kreativität durch innovative digitale Erfahrungen fördern"
+      },
+      "portraitPhotography": {
+        "title": "Porträtfotografie",
+        "description": "Professionelle Porträt- und Bewerbungsfotos"
+      },
+      "piccoloColdBrew": {
+        "title": "PICCOLO Cold Brew",
+        "description": "Premium Cold Brew Kaffee Verpackungsdesign"
+      },
+      "disttraqtStorefront": {
+        "title": "DISTTRAQT Storefront",
+        "description": "Modernes Einzelhandels-Storefront Design und Branding"
+      },
+      "astralBusinessCards": {
+        "title": "Astral Visitenkarten",
+        "description": "Minimalistisches Visitenkarten-Design-System"
+      },
+      "ecoPackaging": {
+        "title": "Eco Verpackung",
+        "description": "Nachhaltige Verpackungsdesign-Lösungen"
+      },
+      "brandIdentitySystem": {
+        "title": "Markenidentitäts-System",
+        "description": "Komplettes Markenidentitäts- und visuelles System"
+      }
+    }
+  },
+  "services": {
+    "title": "Dienstleistungen",
+    "subtitle": "Unternehmen dabei helfen, sich mit Markenidentitäts-Verpackungen hervorzuheben, die fesseln und effektiv konvertieren.",
+    "brandIdentity": "Markenidentität",
+    "packagingDesign": "Verpackungsdesign",
+    "socialMediaDesign": "Social Media Design",
+    "productPhotography": "Produktfotografie",
+    "contentCreation": "Content-Erstellung",
+    "playAnimation": "Animation Abspielen",
+    "pauseAnimation": "Animation Pausieren",
+    "discussProject": "Ihr Projekt besprechen"
+  },
+  "about": {
+    "title": "Lerne Adam kennen",
+    "subtitle": "In der Symphonie der Marken dirigiere ich Meisterwerke.",
+    "bio": "Hallo 👋 Ich bin Adam, Grafikdesigner. Ich gestalte Markenauftritte, Verpackungen und Social-Media-Grafiken. Außerdem fotografiere ich Produkte und erstelle Content, damit Marken auf allen Kanälen einheitlich auftreten.",
+    "skillsTitle": "Fähigkeiten & Expertise",
+    "skills": {
+      "brandIdentity": "Markenidentitätsdesign",
+      "packagingDesign": "Verpackungsdesign",
+      "socialMediaDesign": "Social Media Design",
+      "productPhotography": "Produktfotografie",
+      "contentCreation": "Content-Erstellung",
+      "videoEditing": "Videobearbeitung",
+      "photoshop": "Photoshop",
+      "illustrator": "Illustrator",
+      "premierePro": "Premiere Pro",
+      "capcut": "Capcut",
+      "canva": "Canva"
+    },
+    "experience": {
+      "title": "Erfahrung",
+      "freelance": {
+        "role": "Freiberuflicher Grafikdesigner",
+        "company": "Freelance—Seit 2019",
+        "period": "Seit 2019"
+      },
+      "socialMediaDesigner": { "role": "Social-Media-Designer", "company": "Echoo Agency—Remote", "period": "Juni–August 2025" },
+      "productPhotographer": { "role": "Produktfotograf & Social-Media-Designer", "company": "Mabel, RovoCar, Babyfine—Vollzeit, vor Ort", "period": "Februar–August 2025" }
+    },
+    "bookCall": "Anruf buchen"
+  },
+  "process": {
+    "title": "Prozess",
+    "subtitle": "mutige visuelle Elemente schaffen, die inspirieren und Marken mit Denkprozess erheben.",
+    "step1": {
+      "title": "Definieren Sie Ihre Vision",
+      "description": "Finden Sie den perfekten Plan, der auf Ihre Bedürfnisse zugeschnitten ist und das richtige Gleichgewicht zwischen Funktionen, Flexibilität und Wert bietet, um Ihre Ziele mühelos zu erreichen."
+    },
+    "step2": {
+      "title": "Reichen Sie Ihre Anfrage ein",
+      "description": "Reichen Sie Ihre Designanforderungen einfach über unser privates Design-Portal ein und stellen Sie sicher, dass Ihr Projekt nahtlos verläuft, wo Ihre Vision verstanden, verfeinert und mit Präzision und Kreativität zum Leben erweckt wird."
+    },
+    "step3": {
+      "title": "Projekt geliefert",
+      "description": "Als engagierter Freiberufler stelle ich sicher, dass Ihr Projekt mit Präzision abgeschlossen und innerhalb von 2-3 Tagen geliefert wird. Mit einem scharfen Auge für Details und einer Leidenschaft für Qualität bringe ich Ihre Vision zum Leben - pünktlich und über die Erwartungen hinaus."
+    },
+    "bookCall": "Kostenlosen Anruf buchen"
+  },
+  "testimonials": {
+    "title": "Kundenbewertungen",
+    "subtitle": "Echtes Feedback von Kunden, die meiner Design-Expertise vertraut haben, um ihre Marken erfolgreich zu stärken.",
+    "reviews": {
+      "maazouzAhmed": {
+        "name": "MAAZOUZ AHMED",
+        "role": "MAAZOUZ EXPORT CEO",
+        "quote": "Adam hat Maazouz Export echten Mehrwert gebracht. Seine Kreativität im Design half uns, unsere Marke modern und ansprechend zu präsentieren. Am meisten beeindruckte mich seine Fähigkeit, Ideen in visuelle Darstellungen zu verwandeln, die nicht nur großartig aussahen, sondern auch unsere Botschaft klar kommunizierten. Ein talentierter Profi, den ich wärmstens empfehle."
+      },
+      "studyInItaly": {
+        "name": "CEO, StudyInItaly",
+        "role": "CEO, StudyInItaly",
+        "quote": "Die Zusammenarbeit mit Adam war ein Wendepunkt für unsere Online-Präsenz. Er brachte frische Kreativität in unseren Instagram-Account mit über 55.000 Followern und produzierte Videos, Posts und Skripte, die tief mit unserem Publikum verbunden waren. Seine Mischung aus Designfähigkeiten und Storytelling machte jedes Content-Stück sowohl ansprechend als auch effektiv. Wirklich eine Bereicherung für jedes Team."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Design-Projekte abgeschlossen",
+    "satisfaction": "Kundenzufriedenheitsrate",
+    "years": "Jahre Erfahrung",
+    "behanceButton": "Projektgalerie auf Behance besuchen"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Alles, was Sie über die Zusammenarbeit mit mir wissen müssen. Finden Sie nicht, wonach Sie suchen? Zögern Sie nicht, mich zu kontaktieren.",
+    "q1": {
+      "question": "Wie ist Ihr Designprozess?",
+      "answer": "Mein Designprozess folgt einem strukturierten Ansatz: Entdeckung & Recherche, Konzept & Strategie, Design & Entwicklung und Lieferung & Launch. Jede Phase ist sorgfältig geplant, um das bestmögliche Ergebnis für Ihr Projekt zu gewährleisten."
+    },
+    "q2": {
+      "question": "Wie lange dauert ein typisches Projekt?",
+      "answer": "Projektzeiten variieren je nach Umfang und Komplexität. Ein Logo-Design dauert typischerweise 1-2 Wochen, während eine komplette Markenidentität 4-6 Wochen dauern kann. Ich werde einen detaillierten Zeitplan während unseres ersten Beratungsgesprächs bereitstellen."
+    },
+    "q3": {
+      "question": "Arbeiten Sie mit internationalen Kunden?",
+      "answer": "Ja, ich arbeite mit Kunden weltweit. Ich bin in Algerien ansässig, habe aber Erfahrung in der Zusammenarbeit mit internationalen Marken in verschiedenen Zeitzonen. Alle Kommunikation wird auf Englisch geführt."
+    },
+    "q4": {
+      "question": "Welche Dateiformate stellen Sie zur Verfügung?",
+      "answer": "Ich stelle alle notwendigen Dateiformate für Ihr Projekt zur Verfügung, einschließlich Vektordateien (AI, EPS, SVG), Rasterdateien (PNG, JPG) und druckfertige Dateien (PDF). Ich erstelle auch Style Guides und Markenrichtlinien, wenn zutreffend."
+    },
+    "q5": {
+      "question": "Bieten Sie Überarbeitungen an?",
+      "answer": "Ja, ich biete 2-3 Überarbeitungsrunden in meinen Standardpaketen an, um sicherzustellen, dass Sie mit dem Endergebnis vollständig zufrieden sind. Zusätzliche Überarbeitungen können bei Bedarf arrangiert werden."
+    },
+    "q6": {
+      "question": "Wie fangen wir an?",
+      "answer": "Kontaktieren Sie mich einfach über das Kontaktformular oder WhatsApp. Ich werde eine kostenlose Beratung planen, um Ihr Projekt zu besprechen, Ihre Bedürfnisse zu verstehen und einen detaillierten Vorschlag mit Zeitplan und Preisen zu erstellen."
+    }
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Bereit, Ihre Marke zu stärken? Lassen Sie uns über Ihr Projekt sprechen und Ihre Vision zum Leben erwecken.",
+    "sendMessage": "Senden Sie mir eine Nachricht",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    },
+    "buttons": {
+      "whatsapp": "WhatsApp",
+      "behance": "Behance",
+      "email": "E-Mail",
+      "emailCopied": "E-Mail kopiert!",
+      "whatsappDesc": "Schneller Chat & sofortige Antwort",
+      "behanceDesc": "Mein Portfolio & Projekte ansehen"
+    },
+    "quickResponse": {
+      "title": "Schnelle Antwort",
+      "description": "Ich antworte normalerweise innerhalb von 24 Stunden auf Anfragen. Für dringende Projekte können Sie mich gerne über WhatsApp für sofortige Unterstützung kontaktieren."
+    },
+    "privacy": "Ich stimme der Datenschutzrichtlinie und den Nutzungsbedingungen zu."
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "dev": "Dev.",
+    "devTooltip": "Website-Entwickler besuchen"
+  },
+  "common": {
+    "bookCall": "Anruf buchen",
+    "seeServices": "Dienstleistungen ansehen",
+    "loading": "Wird geladen...",
+    "error": "Etwas ist schief gelaufen",
+    "retry": "Erneut versuchen",
+    "backToTop": "Nach oben",
+    "skipToContent": "Zum Inhalt springen",
+    "closeMenu": "Menü schließen",
+    "openMenu": "Menü öffnen",
+    "previousProject": "Vorheriges Projekt",
+    "nextProject": "Nächstes Projekt",
+    "previousReviews": "Vorherige Bewertungen",
+    "nextReviews": "Nächste Bewertungen",
+    "behance": "Behance",
+    "linkedin": "LinkedIn",
+    "menu": "Menü",
+    "availableForWork": "Verfügbar für Arbeit"
+  }
+}
